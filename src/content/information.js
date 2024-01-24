@@ -1,12 +1,12 @@
 //personal information start
 
 const userData = {
-  firstName: "<Randil",
-  lastName: "Tharusha/>",
+  firstName: "<Mohammad",
+  lastName: ".Satel/>",
   title: "About Me",
   img: "https://pics.craiyon.com/2023-10-30/66ff0c95358e458c859ecea5d3764b32.webp",
   description:
-    "Hey there! 👋 I'm Randil, a passionate Software Engineering undergrad at Staffordshire University. 💻 By day, I'm a tech enthusiast exploring the wonders of coding, and by night, I transform into an aspiring full-stack developer. 🌌 My journey spans from crafting code to delving into the realms of IoT, cybersecurity, AI, and ML. When not in the digital world, you'll find me navigating the strategic landscape of League of Legends for some competitive fun. Let's connect and embark on an exciting adventure through the vast universe of technology! 🚀 ",
+    "Hey there! 👋 I'm Mohammad Satel, a passionate fullstack developer. 💻 I'm a tech enthusiasts, always exploring the wonders of code. 🌌 I'm a fast learner, adapt quickly and always eager to learn new technologies to stay on the cutting edge of web development. 🌟 I'm excited about the opportunity to bring my blend of skills and passion for web development to new projects 🚀",
 };
 
 //personal information end

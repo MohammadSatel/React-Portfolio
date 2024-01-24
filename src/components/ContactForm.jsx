@@ -9,8 +9,8 @@ const ContactForm = () => {
       <div className="contact-info">
         <h1>Let&apos;s talk about everything!</h1>
         <p>
-          Don&apos;t like forms? Send me an{" "}
-          <a href="mailto:randiltharusha72@gmail.com">email</a>. 👋
+          Don&apos;t like forms? Send me an email!{""}
+          <a href="hamuds95@gmail.com"></a> 👋
           <br />
           <br />
           <h3>Or find me on:</h3>
@@ -25,17 +25,17 @@ const ContactForm = () => {
         <div>
           <p className="contact-links">
             <MdEmail />
-            randiltharusha72@gmail.com
+            hamuds95@gmail.com
           </p>
           <br />
           <p className="contact-links">
             <FaPhoneAlt />
-            +94 78 134 7983
+            +972 542 445 567
           </p>
           <br />
           <p className="contact-links">
             <IoLocation />
-            Sri Lanka
+            Israel
           </p>
           <br />
         </div>

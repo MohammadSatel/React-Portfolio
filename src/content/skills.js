@@ -1,19 +1,24 @@
 const skills = [
+  "python.svg",
+  "nodejs.svg",
+  "php.svg",
+  "django.svg",
+  "flask.svg",
   "react.svg",
-  "nextjs.svg",
+  "vue.svg",
+  "api.svg",
   "js.svg",
+  "typescript.svg",
   "html.svg",
   "css.svg",
-  "framer-motion.svg",
-  "nodejs.svg",
-  "express.svg",
-  "python.svg",
   "bootstrap.svg",
+  "tailwind.svg",
   "git.svg",
   "github.svg",
+  "sqlite.svg",
   "mongodb.svg",
-  "tailwind.svg",
   "linux.svg",
+
 ]; // Add or remove skills here, make sure to include the image respective to the skill inside the public/skills folder and use the correct file extension
 
 export default skills;
