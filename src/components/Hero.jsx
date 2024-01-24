@@ -15,7 +15,7 @@ const Hero = (props) => {
           stiffness: 260,
           damping: 20,
         }}
-        whileHover={{ scale: 1.3, rotate: 10 }}
+        // whileHover={{ scale: 1.3, rotate: 10 }}
         whileTap={{
           scale: 0.8,
           rotate: -90,
@@ -32,8 +32,10 @@ const Hero = (props) => {
         <Typewriter
           options={{
             strings: [
-              "An Aspiring Fullstack Developer",
-              "An AI & ML Enthusiast",
+              "A Fullstack Developer",
+              "AI & ML Enthusiast",
+              "A Hardcore Gamer",
+              "A Tech Enthusiast",
             ],
             autoStart: true,
             loop: true,

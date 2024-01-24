@@ -177,11 +177,11 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 30px;
+  margin-top: 50px;
 }
 .pfp img {
-  max-width: 150px;
-  border-radius: 50%;
+  max-width: 200px;
+  border-radius: 0%;
 }
 /* hero styles end */
 
@@ -540,7 +540,7 @@ form > input[type="submit"]:hover {
   100% {
     background-color: #fa3939;
   }
-  
+
 }
 .posts {
   display: flex;
