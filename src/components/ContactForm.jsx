@@ -1,3 +1,4 @@
+import React from 'react';
 import socials from "../content/socials";
 import { MdEmail } from "react-icons/md";
 import { FaPhoneAlt } from "react-icons/fa";
@@ -7,17 +8,16 @@ const ContactForm = () => {
   return (
     <div className="contact-section">
       <div className="contact-info">
-        <h1>Let&apos;s talk about everything!</h1>
+        <h1>Let's talk about everything!</h1>
         <p>
-          Don&apos;t like forms? Send me an email!{""}
-          <a href="mailto:hamuds95@gmail.com"></a> 👋
+          Don't like forms? Send me an <a href="mailto:hamuds95@gmail.com">email</a> 👋
           <br />
           <br />
           <h3>Or find me on:</h3>
           <div className="hero-socials">
             {socials.map((social, index) => (
-              <a key={index} href={social.url}>
-                <img src={`/socials/${social.icon}`} alt="" />
+              <a key={index} href={social.url} target="_blank" rel="noopener noreferrer">
+                <img src={`/socials/${social.icon}`} alt={social.name} />
               </a>
             ))}
           </div>
@@ -25,7 +25,7 @@ const ContactForm = () => {
         <div>
           <p className="contact-links">
             <MdEmail />
-            hamuds95@gmail.com
+            <a href="mailto:hamuds95@gmail.com">hamuds95@gmail.com</a>
           </p>
           <br />
           <p className="contact-links">
@@ -41,14 +41,16 @@ const ContactForm = () => {
         </div>
       </div>
       <div className="contact-form">
-        <form name="contact" netlify>
+        {/* The "netlify" attribute is for Netlify forms */}
+        {/* If you're not using Netlify, remove that attribute */}
+        <form name="contact" method="POST" data-netlify="true">
           <input
             type="text"
             name="senderName"
             placeholder="Your Name"
             required
           />
-          <input type="text" name="senderEmail" placeholder="Email" required />
+          <input type="email" name="senderEmail" placeholder="Email" required />
           <input type="text" name="subject" placeholder="Subject" required />
           <textarea
             placeholder="Your Message"
