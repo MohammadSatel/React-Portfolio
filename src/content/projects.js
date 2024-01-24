@@ -3,20 +3,21 @@ const projects = [
   {
     name: "Book Library",
     description:
-    "Backend:Python (Flask) Frontend: Vue.js Database:SQLite Styling:Tailwind BackendCLoud:Netlify FrontendCloud:Render VersionControl:Github ",
+    "Backend:Python(Flask) Frontend:Vue.js Database:SQLite™ Styling:Tailwind BackendCLoud:Netlify FrontendCloud:Render VersionControl:Github ",
     stack: ["React", "NodeJS", "Express", "MongoDB"],
     sourceCode: "https://github.com/randilt/booking.com-clone-nextjs14",
+    sourceCode: "https://github.com/randilt/booking.com-clone-nextjs14",
     img: "/bookingcom.jpg",
-    preview: "https://bookingcomnext14.netlify.app/",
+    preview: "https://mohammadsatel.netlify.app/",
   },
   {
     name: "Supermarket",
     description:
-      "Backend:Python (Django) Frontend:React.js Database:MySQL Styling:Bootstrap BackendCLoud:Netlify FrontendCloud:Render VersionControl:Github ",
+      "Backend:Python(Django) Frontend:React.js Database:MySQL Styling:Bootstrap BackendCLoud:Netlify FrontendCloud:Render VersionControl:Github ",
     stack: ["React", "NodeJS", "Express", "MongoDB"],
     sourceCode: "https://github.com/randilt/cyberscourge-hub",
     img: "/cyberscourge.jpg",
-    preview: "https://rtharusha.tech",
+    preview: "https://mohammadsatel.netlify.app/",
   },
   {
     name: "Car Rent",
@@ -25,7 +26,7 @@ const projects = [
     stack: ["React", "NodeJS", "Express", "MongoDB"],
     sourceCode: "https://github.com/randilt/notion-clone",
     img: "/jotion.jpg",
-    preview: "#",
+    preview: "https://mohammadsatel.netlify.app/",
   },
 ];
 

@@ -10,7 +10,7 @@ const ContactForm = () => {
         <h1>Let&apos;s talk about everything!</h1>
         <p>
           Don&apos;t like forms? Send me an email!{""}
-          <a href="hamuds95@gmail.com"></a> 👋
+          <a href="mailto:hamuds95@gmail.com"></a> 👋
           <br />
           <br />
           <h3>Or find me on:</h3>
