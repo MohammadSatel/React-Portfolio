@@ -5,8 +5,8 @@ const projects = [
     description:
     "Backend:Python(Flask) Frontend:Vue.js Database:SQLite™ Styling:Tailwind BackendCLoud:Netlify FrontendCloud:Render VersionControl:Github ",
     stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/booking.com-clone-nextjs14",
-    sourceCode: "https://github.com/randilt/booking.com-clone-nextjs14",
+    sourceCode: "https://github.com/MohammadSatel",
+    sourceCode: "https://github.com/MohammadSatel",
     img: "/bookingcom.jpg",
     preview: "https://mohammadsatel.netlify.app/",
   },
@@ -15,7 +15,7 @@ const projects = [
     description:
       "Backend:Python(Django) Frontend:React.js Database:MySQL Styling:Bootstrap BackendCLoud:Netlify FrontendCloud:Render VersionControl:Github ",
     stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/cyberscourge-hub",
+    sourceCode: "https://github.com/MohammadSatel",
     img: "/cyberscourge.jpg",
     preview: "https://mohammadsatel.netlify.app/",
   },
@@ -24,7 +24,7 @@ const projects = [
     description:
     "Backend:Node.js Frontend:Angular.js Database:MongoDB Styling:Tailwind BackendCLoud:Netlify FrontendCloud:Render VersionControl:Github ",
     stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/randilt/notion-clone",
+    sourceCode: "https://github.com/MohammadSatel",
     img: "/jotion.jpg",
     preview: "https://mohammadsatel.netlify.app/",
   },

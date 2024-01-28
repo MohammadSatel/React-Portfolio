@@ -6,7 +6,6 @@ const skills = [
   "flask.svg",
   "react.svg",
   "vue.svg",
-  "api.svg",
   "js.svg",
   "typescript.svg",
   "html.svg",
@@ -17,7 +16,6 @@ const skills = [
   "github.svg",
   "sqlite.svg",
   "mongodb.svg",
-  "linux.svg",
 
 ]; // Add or remove skills here, make sure to include the image respective to the skill inside the public/skills folder and use the correct file extension
 

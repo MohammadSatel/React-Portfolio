@@ -2,7 +2,7 @@
 
 const userData = {
   firstName: "<Mohammad",
-  lastName: ".Satel/>",
+  lastName: "Satel/>",
   title: "About Me",
   img: "profile-pic.png",
   description:
