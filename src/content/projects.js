@@ -3,28 +3,25 @@ const projects = [
   {
     name: "Car Rent",
     description:
-    "Backend:Node.js Frontend:Angular.js Database:MongoDB Styling:Tailwind BackendCLoud:Netlify FrontendCloud:Render VersionControl:Github ",
-    stack: ["React", "NodeJS", "Express", "MongoDB"],
+    "Backend:Python(Django) Frontend:React.js Database:SQLite Styling:Tailwind BackendCLoud:Render FrontendCloud:Netlify VersionControl:Github ",
     sourceCode: "https://github.com/MohammadSatel/Full_Project",
     img: "/jotion.jpg",
     preview: "https://car-rental-mohammad-satel.netlify.app/",
   },
-  
+
   {
     name: "Book Library",
     description:
-    "Backend:Python(Flask) Frontend:Vue.js Database:SQLite™ Styling:Tailwind BackendCLoud:Netlify FrontendCloud:Render VersionControl:Github ",
-    stack: ["Flask", "Vue", "SQLite", "Tailwind"],
+    "Backend:Python(Flask)  Frontend:Vue.js  Databases:MySQL™ Styling:Tailwind BackendCLoud:Render FrontendCloud:Netlify VersionControl:Github ",
     sourceCode: "https://github.com/MohammadSatel/Flask_Book_Library",
     img: "/bookingcom.jpg",
     preview: "https://flask-book-library-render.onrender.com",
   },
   {
-    name: "Supermarket",
+    name: "Portfolio",
     description:
-      "Backend:Python(Django) Frontend:React.js Database:MySQL Styling:Bootstrap BackendCLoud:Netlify FrontendCloud:Render VersionControl:Github ",
-    stack: ["React", "NodeJS", "Express", "MongoDB"],
-    sourceCode: "https://github.com/MohammadSatel",
+      "Frontend:React.js Styling:ViteConfig FrontendCloud:Netlify VersionControl:Github ",
+    sourceCode: "https://github.com/MohammadSatel/React-Portfolio",
     img: "/cyberscourge.jpg",
     preview: "https://mohammadsatel.netlify.app/",
   },
