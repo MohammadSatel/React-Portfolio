@@ -1,7 +1,6 @@
-//projects start
 const projects = [
   {
-    name: "Car Rent",
+    name: "Car Rental",
     description:
     "Backend:Python(Django) Frontend:React.js Database:SQLite Styling:Tailwind BackendCLoud:Render FrontendCloud:Netlify VersionControl:Github ",
     sourceCode: "https://github.com/MohammadSatel/Full_Project",
@@ -28,5 +27,5 @@ const projects = [
 
 ];
 
-//projects end
+
 export default projects;

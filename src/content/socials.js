@@ -7,10 +7,7 @@ const socials = [
     icon: "linkedin.svg",
     url: "https://www.linkedin.com/in/mohammadsatel/",
   },
-  {
-    icon: "facebook.svg",
-    url: "https://www.facebook.com/mohammadsatel95/",
-  },
+  
 ];
 
 export default socials;
